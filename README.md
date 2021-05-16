@@ -1,2 +1,2 @@
 # BBPathology
-Quiz app in Kotlin for increasing knowlege in pathology
+Quiz app in Kotlin made to increase knowlege in pathology
